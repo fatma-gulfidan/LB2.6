@@ -1,0 +1,30 @@
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6.deps.json
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6.runtimeconfig.json
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6.dll
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6.pdb
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.AssemblyInfoInputs.cache
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.AssemblyInfo.cs
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.csproj.CoreCompileInputs.cache
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.sourcelink.json
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.dll
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/refint/AB2.6.dll
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.pdb
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.genruntimeconfig.cache
+/Users/fatmagulfidan/Desktop/AB2.6/AB2.6/obj/Debug/net8.0/ref/AB2.6.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6.deps.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6.runtimeconfig.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/bin/Debug/net8.0/AB2.6.pdb
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.AssemblyInfoInputs.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.AssemblyInfo.cs
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.csproj.CoreCompileInputs.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.sourcelink.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/refint/AB2.6.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.pdb
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/AB2.6.genruntimeconfig.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/AB2.6/AB2.6/obj/Debug/net8.0/ref/AB2.6.dll
